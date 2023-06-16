@@ -6,3 +6,29 @@ body {
 * {
     color: white;
 }
+.chickall {
+    margin-left: 510px;
+    margin-top: -500px;
+}
+.chickpick {
+    display: inline;
+}
+a.linkies {
+    margin-left: 510px;
+    margin-top: 00px;
+    display: block;
+}
+.beefsalad {
+    margin-left: 510px;
+    margin-top: -500px;
+}
+.beefpic {
+    display: inline;
+}
+.tacopic {
+    display: inline;
+}
+.tacostuff {
+    margin-left: 510px;
+    margin-top: -310px;
+}
