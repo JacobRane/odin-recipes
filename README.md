@@ -1,3 +1,3 @@
 # odin-recipes
-This is a project to make my first website
-By doing this I will have demonstrated knowledge of basic git, html and terminal commands.
+My first website ever, really just basic usage of html and css
+Also used bash to setup git for commits
